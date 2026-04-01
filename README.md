@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Nikita 👋
 
-<!--
-**NikitaBulieienko/NikitaBulieienko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I've been passionate about programming since childhood — started with HTML & JavaScript courses,
+then spent three years studying Python and Java at a computer science school.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 Building and shipping indie games to **Steam**
+- 📱 Developing iOS apps — working on a personal finance tracker for the **App Store**
+- 🌱 Always learning and experimenting with new ideas
+
+## Background
+
+- Languages: Python, Java, JavaScript, Swift (learning)
+- Interests: Game dev, mobile apps, productivity tools
+- Outside of code: I hit the gym regularly 🏋️
+
+Feel free to explore my repos and reach out!
